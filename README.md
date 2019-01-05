@@ -1,4 +1,4 @@
-#meta-frontend
+# meta-frontend
 
 This repository represents the frontend-library of the project.
 It is used to integrate the plattform into client applications.
